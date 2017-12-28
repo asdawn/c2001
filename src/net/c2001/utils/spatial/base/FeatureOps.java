@@ -29,8 +29,8 @@ public class FeatureOps {
 		double area = -1;
 		if (layer != null) {
 			double sum = 0;
-			int featureCount = layer.GetFeatureCount();
-			for (int i = 0; i < featureCount; i++) {
+			long featureCount = layer.GetFeatureCount();
+			for (long i = 0; i < featureCount; i++) {
 				Feature feature = layer.GetFeature(i);
 				Geometry geometry = feature.GetGeometryRef();
 				int type = geometry.GetGeometryType();
