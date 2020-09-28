@@ -1,6 +1,6 @@
 **Announcement**
 
-The old www.c2001.net website is created on weebly, but it is down now. A lot of pages and experimental data are lost. However the net.c2001 library has a mirror here. In the next few years I will keep this domain and redirect it to https://github.com/asdawn/c2001.
+The old [www.c2001.net](www.c2001.net) website is created on weebly, but it is down now. A lot of pages and experimental data are lost. However the net.c2001 library has a mirror here. In the next few years I will keep this domain and redirect it to a [github repository](https://github.com/asdawn/c2001).
 
 The net.c2001 library was a good choice for GIS data mining. For beginners, it has a GUI, and can directly use ESRI shapefile and raster images, that is still a great job. Till now I've not seen such tools in QGIS or ArcGIS. The framework is extensible for sophisticated researchers. 
 
@@ -8,7 +8,7 @@ However, things has changed a lot in the past years. The basis is still okay but
 
 2020-09-28
 
-d
+dl
 
 --------------
 
