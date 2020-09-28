@@ -17,15 +17,13 @@ net.c2001: Library for spatio-temporal data analysis
 
 -------------
 
-## GARMF
-
-GARMF: a general framework for association rule mining  
+## GARMF: a general framework for association rule mining  
 
 ## RFL: association rule filtering library/language
 
 RFL(Rule Filtering Language)  can be used for sorting, filtrating, and evaluating association rules. Once you converted association rules to the required format (see the API document or source code of net.c2001.dm.ar.base.*), you may save the rules to or read them form file, view and export frequent itemsets and association rules, sort and filtrate association rules using different methods, and evaluate rules with lift, novelty and other measures(see the API document or source code of net.c2001.dm.ar.rfl.*), just try it.
 
-## DAP Shell: DAP Shell: a prototype for association rule mining
+## DAP Shell: a prototype for association rule mining
 
 -----------
 
